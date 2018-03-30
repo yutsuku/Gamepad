@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="GAMEPAD_BUTTON1" header="GAMEPAD_HEADER"> Gamepad.UI.button_action:Click() </Binding>
+	<Binding name="GAMEPAD_BUTTON2"> Gamepad.UI.button_previous:Click() </Binding>
+	<Binding name="GAMEPAD_BUTTON3"> Gamepad.UI.button_next:Click() </Binding>
+</Bindings>

@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: Gamepad
+## Author: moh
+## Version: 1.0
+## SavedVariablesPerCharacter: GamepadDB
+
+Global.lua
+
+locale\Locale.lua
+locale\LocaleTable.lua
+
+locale\enUS.lua
+
+UI.lua
+Main.lua
